@@ -135,6 +135,9 @@
         "id": "esbenp.prettier-vscode"
     },
     {
+        "id": "redhat.mta-vscode-extension"
+    },
+    {
         "id": "eamodio.gitlens"
     }
 ]
