@@ -135,6 +135,21 @@
         "id": "esbenp.prettier-vscode"
     },
     {
+        "id": "redhat.mta-vscode-extension",
+	"download": "https://github.com/MoOyeg/devspaces/raw/devspaces-3-rhel-8/dependencies/che-plugin-registry/vsix-local/redhat.mta-vscode-extension-6.1.1.vsix",
+	"version": "6.1.1"
+    },
+    {
+        "id": "Blackboxapp.blackbox",
+	"download": "https://github.com/MoOyeg/devspaces/raw/devspaces-3-rhel-8/dependencies/che-plugin-registry/vsix-local/Blackboxapp.blackbox-1.0.44.vsix",
+        "version": "1.0.44"
+    },
+    {
+        "id": "ritwickdey.LiveServer",
+        "download": "https://github.com/MoOyeg/devspaces/raw/devspaces-3-rhel-8/dependencies/che-plugin-registry/vsix-local/ritwickdey.LiveServer-5.7.9.vsix",
+        "version": "5.7.9"
+    },
+    {
         "id": "eamodio.gitlens"
     }
 ]
