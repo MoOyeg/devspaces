@@ -136,6 +136,18 @@
     },
     {
         "id": "redhat.mta-vscode-extension"
+	"download": "",
+	"version": "6.1.1"
+    },
+    {
+        "id": "Blackboxapp.blackbox",
+	"download": "",
+        "version": "1.0.44"
+    },
+    {
+        "id": "ritwickdey.LiveServer",
+        "download": "",
+        "version": "5.7.9"
     },
     {
         "id": "eamodio.gitlens"
